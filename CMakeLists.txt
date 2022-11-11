@@ -7,3 +7,4 @@ set(CMAKE_C_STANDARD 11)
 include_directories(common)
 
 add_subdirectory(map)
+add_subdirectory(expression)
