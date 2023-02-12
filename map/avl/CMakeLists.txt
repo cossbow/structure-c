@@ -1,5 +1,5 @@
 project(avl C)
 
-add_library(avl_tree STATIC avl.c)
+add_library(map-avl STATIC avl.c)
 
 add_subdirectory(test)
